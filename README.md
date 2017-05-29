@@ -1,5 +1,8 @@
 # RAML Parser for .NET 
 
+**This project is no longer mantained, the new RAML .Net Parser with RAML 1 support is [here](https://github.com/raml-org/raml-dotnet-parser-2)**
+
+
 A RAML Parser implementation in .NET for all CLR languages. The parser is implemented as a strongly-typed wrapper around the JavaScript parser, leveraging Edge.js as a Node.js host. Reuse of the JavaScript parser provides a robust and high-performance parser with a simple and natural .NET object model.
 
 The preferred way of consuming the RAML parser in your .NET application is to include it in your project directly from nuget:
